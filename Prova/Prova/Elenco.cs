@@ -13,9 +13,9 @@ namespace Prova
         {
             elencoAlunni = new List<Alunni>();
         }
-        public void Aggiungi (Alunni unalunno)
+        public void Aggiungi (Alunni Unalunno)
         {
-            elencoAlunni.Add(unalunno);
+            elencoAlunni.Add(Unalunno);
         }
     }
 }
